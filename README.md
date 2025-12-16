@@ -148,8 +148,8 @@ Custom Artwork
 ---
 
 Sources & References Used 
-Python Crash Course By Eric Mathews 
-Youtube Videos 
+Python Crash Course By Eric Mathews, 
+Youtube Videos,  
 Datacamp 
 
 Pygame Documentation
